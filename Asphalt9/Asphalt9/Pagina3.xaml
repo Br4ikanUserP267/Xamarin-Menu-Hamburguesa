@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Asphalt9.Pagina3"
+             Title="Autos del juego">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <WebView x:Name="cars"
+                         HorizontalOptions="StartAndExpand"
+                         HeightRequest="300"></WebView>
+                <Label Text="Compite con los vehículos más increíbles elegidos con esmero entre fabricantes reconocidos mundialmente. Mejora sus estadísticas, elige el color de sus pinzas de frenos o añade piezas de carbono y más para personalizar completamente tus coches."
+                       FontSize="Medium"></Label>
+                <WebView x:Name="tuning"
+                         HorizontalOptions="StartAndExpand"
+                         HeightRequest="300"></WebView>
+
+                <Button Text="Página oficial "
+                        CornerRadius="100"
+                        BackgroundColor="Transparent"
+                        BorderColor="White"
+                        BorderWidth="0.5"
+                        Clicked="Button_Clicked">
+                </Button>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Asphalt9.Pagina1"
+             Title="Descripción del juego">
+    <ContentPage.Content>
+
+        <ScrollView>
+            <StackLayout>
+                <Label Text="Bienvenido a asphalt 9: Legends"
+                   HorizontalOptions="Center"
+                   FontSize="Title">
+                </Label>
+
+                <Image Source="https://hwp.com.tr/wp-content/uploads/2018/06/asphalt-9-legends.jpg"></Image>
+
+                <Label Text="Enfréntate a los pilotos más intrépidos y conviértete en la próxima Leyenda del Asphalt en esta nueva experiencia de carreras arcade. En Asphalt 9: Legends, los jugadores podrán ponerse al volante de más de 50 prestigiosos coches de ensueño en las localizaciones más asombrosas del mundo real. Completa cientos de pruebas en el modo Carrera en solitario y enfréntate a hasta 8 jugadores en tiempo real en el modo multijugador. Incluso podrás crear tu propio Club de Carreras y reclutar jugadores para competir en equipo y ser el mejor del mundo." 
+                HorizontalOptions="CenterAndExpand"
+                HorizontalTextAlignment="Start"
+                   FontSize="Body"/>
+
+                <Label></Label>
+
+                <Label Text="¿Estás listo para convertirte en una nueva leyenda?"
+                       FontSize="Medium"></Label>
+
+                <Entry Placeholder="Ingresa tu nombre de usuario"
+                       x:Name="elyuserneim"></Entry>
+                
+                <Button Text="Si, estoy listo"
+                        Clicked="Elyuserneim_Clicked"></Button>
+                
+                
+                <Label Text="Trailer del juego"
+                   FontSize="Large">
+                </Label>
+
+                <WebView Source="https://www.youtube.com/embed/ot63S91Ihwk" HeightRequest="300" WidthRequest="100"></WebView>
+
+                <Button Text="Página oficial "
+                        CornerRadius="100"
+                        TextColor="Red"
+                        BackgroundColor="Transparent"
+                        BorderColor="White"
+                        BorderWidth="0.5"
+                        Clicked="Button_Clicked">
+                </Button>
+
+
+
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

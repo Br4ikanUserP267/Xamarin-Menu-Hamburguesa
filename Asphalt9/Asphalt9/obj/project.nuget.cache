@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qFITeoxbxn1oRR+QdCwyyw3X66et6IQv7MmCoGCRkbnlXP1fpmisATII9Is5v4ZGtNFVobo5qSadnK5UhfLvgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\source\\repos\\Asphalt9\\Asphalt9\\Asphalt9\\Asphalt9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

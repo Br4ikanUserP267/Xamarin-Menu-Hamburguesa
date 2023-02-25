@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Asphalt9.Maestro"
+             Title="Maestro"
+             BackgroundImageSource="https://w0.peakpx.com/wallpaper/279/17/HD-wallpaper-asphalt-9-cars-logo-mercedes-new-solo-time-turkey.jpg">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="El juego"
+                    Clicked="Button_Clicked">
+            </Button>
+
+            <Button Text="Sus pistas"
+                    Clicked="Button_Clicked_1">                
+            </Button>
+
+            <Button Text="Sus autos"
+                    Clicked="Button_Clicked_2">
+            </Button>
+
+            <Button Text="Sus eventos"
+                    Clicked="Button_Clicked_3">
+                
+            </Button>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

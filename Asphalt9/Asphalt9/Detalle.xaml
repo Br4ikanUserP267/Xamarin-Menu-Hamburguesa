@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Asphalt9.Detalle"
+             Title="Detalle"
+             BackgroundImageSource="https://i.pinimg.com/originals/70/86/7f/70867f10b46f7fddabe2473d0c9afee5.jpg">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="https://na.snapdragonproseries.com/wp-content/uploads/sites/13/2022/09/Asphalt_9_Logo.png"                   
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="CenterAndExpand">
+            </Image>
+            
+            <Button Text="Conoce más"
+                    CornerRadius="100"
+                    BackgroundColor="Transparent"
+                    BorderColor="White"
+                    BorderWidth="0.5"
+                    Clicked="Button_Clicked">               
+            </Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

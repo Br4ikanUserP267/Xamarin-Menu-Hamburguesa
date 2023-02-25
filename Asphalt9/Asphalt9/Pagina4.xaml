@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Asphalt9.Pagina4">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <WebView Source="https://www.youtube.com/embed/0AKTeOrSOzE" HorizontalOptions="StartAndExpand" HeightRequest="300"></WebView>
+                <Label Text="Los eventos son carreras que solo están disponibles durante un tiempo limitado. Para acceder a ellos, toca en la sección Eventos diarios del menú principal."
+                       FontSize="Body"></Label>
+                <Label></Label>
+                <Label Text="Cada evento ofrece diferentes recompensas. Estas son muy variadas: desde créditos y fichas, a planos y piezas de importación. También, por supuesto, sobres de cartas. ¡Y no te pierdas los eventos de lanzamientos de coches donde podrás desbloquear los coches nuevos!"></Label>
+                <Label></Label>
+                <Label Text="Te ha gustado esta información?"></Label>
+
+                <RadioButton Content="Si"></RadioButton>
+                <RadioButton Content="No"></RadioButton>
+                <Entry Placeholder="¿Porque?"></Entry>
+                <Label></Label>
+                <Button Text="Enviar"
+                        Clicked="Button_Clicked_1"></Button>
+
+                <Button Text="Pagina oficial"
+                        CornerRadius="100"
+                        BackgroundColor="Transparent"
+                        BorderColor="White"
+                        BorderWidth="0.5"
+                        Clicked="Button_Clicked"></Button>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

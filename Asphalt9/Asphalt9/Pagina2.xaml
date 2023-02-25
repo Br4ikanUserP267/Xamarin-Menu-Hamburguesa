@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Asphalt9.Pagina2"
+             Title="Pistas del juego">
+
+    <ContentPage.Content>
+        <ScrollView>
+
+            <StackLayout>
+
+                <Image Source="https://static.wikia.nocookie.net/asphalt/images/9/97/Shanghai_A9.png/revision/latest?cb=20191214230756"></Image>
+                <Image Source="https://static.wikia.nocookie.net/asphalt/images/e/e0/Osaka_A9.png/revision/latest?cb=20191214232046"></Image>
+                <Image Source="https://static.wikia.nocookie.net/asphalt/images/5/5c/Cairo_A9.png/revision/latest?cb=20191214230945"></Image>
+
+                <Label Text="Explora un mundo sin límites de velocidad mientras conduces por los lugares más asombrosos del mundo real. Corre alrededor de tornados gigantes en el desierto americano, evita desprendimientos de tierra en el Himalaya. Cada circuito es una superproducción en sí mismo."
+                       FontSize="Medium"
+                           HorizontalOptions="EndAndExpand"></Label>
+                <Label ></Label>
+                <Label Text="Deja tus límites en el polvo y conviértete en una leyenda de la pista."
+                       FontSize="Medium"></Label>
+                <Entry Placeholder="Hola"></Entry>
+
+                <Label Text="¿Que tanto te gustaron las pistas?"
+                       FontSize="Medium"></Label>
+
+                <Slider Minimum="0" Maximum="5" Value="0"></Slider>
+                <Label></Label>
+
+                <Button Text="Página oficial "
+                        CornerRadius="100"
+                        BackgroundColor="Transparent"
+                        BorderColor="White"
+                        BorderWidth="0.5"
+                        Clicked="Button_Clicked">                    
+                </Button>
+                
+            </StackLayout>
+
+        </ScrollView>
+        
+    </ContentPage.Content>
+</ContentPage>
