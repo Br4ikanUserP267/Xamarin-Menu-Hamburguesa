@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "qh3mdvnLFFUkBsnlykEUa0aazAFvEuI9R9UT5jgDh0b2aYAuEQXvjlha83El7H3zPEztBgqm2jsgeEtuPSnn8w==",
+  "dgSpecHash": "AHqbQrKg5ScfW7zOHL91CDecG7szSnNTniTjoIxFI6VRBn+HctsaFzfPF14zHrwY2qxCILCFG+OHcAP7WZwL4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lican\\source\\repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9\\Asphalt9.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Source\\Repos\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9\\Asphalt9.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lican\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\lican\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\lican\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\lican\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\lican\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }

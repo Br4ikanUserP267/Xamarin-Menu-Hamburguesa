@@ -1062,29 +1062,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lican\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lican\\source\\repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.iOS\\Asphalt9.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\Source\\Repos\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.iOS\\Asphalt9.iOS.csproj",
       "projectName": "Asphalt9.iOS",
-      "projectPath": "C:\\Users\\lican\\source\\repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.iOS\\Asphalt9.iOS.csproj",
-      "packagesPath": "C:\\Users\\lican\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lican\\source\\repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.iOS\\obj\\",
+      "projectPath": "C:\\Users\\USUARIO\\Source\\Repos\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.iOS\\Asphalt9.iOS.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO\\Source\\Repos\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\lican\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -1096,8 +1093,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\lican\\source\\repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9\\Asphalt9.csproj": {
-              "projectPath": "C:\\Users\\lican\\source\\repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9\\Asphalt9.csproj"
+            "C:\\Users\\USUARIO\\Source\\Repos\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9\\Asphalt9.csproj": {
+              "projectPath": "C:\\Users\\USUARIO\\Source\\Repos\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9\\Asphalt9.csproj"
             }
           }
         }

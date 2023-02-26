@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FyIqVBrlrSUG1uLY1gSoFFy0qanZxXQCkSEw0DLXHUU+zJFdBAfSEl5YVYaxOFxBaxmF8jjk4wb9r7mU3VsxXQ==",
+  "dgSpecHash": "EsCeGvfzTgflDptwkaY+adBbFU2HnOJOOy6XVMzLI2PPxHyLORn2yM/CPN3rxMC5YosHVFdh2h0GRDe0O6YDjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lican\\source\\repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.iOS\\Asphalt9.iOS.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Source\\Repos\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.iOS\\Asphalt9.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lican\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\lican\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\lican\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }
