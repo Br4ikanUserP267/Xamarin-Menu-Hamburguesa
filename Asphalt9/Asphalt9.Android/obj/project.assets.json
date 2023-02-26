@@ -3408,26 +3408,29 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USUARIO\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\lican\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\Asphalt9\\Asphalt9\\Asphalt9.Android\\Asphalt9.Android.csproj",
+      "projectUniqueName": "C:\\Users\\lican\\Source\\Repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.Android\\Asphalt9.Android.csproj",
       "projectName": "Asphalt9.Android",
-      "projectPath": "C:\\Users\\USUARIO\\source\\repos\\Asphalt9\\Asphalt9\\Asphalt9.Android\\Asphalt9.Android.csproj",
-      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USUARIO\\source\\repos\\Asphalt9\\Asphalt9\\Asphalt9.Android\\obj\\",
+      "projectPath": "C:\\Users\\lican\\Source\\Repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.Android\\Asphalt9.Android.csproj",
+      "packagesPath": "C:\\Users\\lican\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lican\\Source\\Repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lican\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid13.0"
@@ -3439,8 +3442,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\USUARIO\\source\\repos\\Asphalt9\\Asphalt9\\Asphalt9\\Asphalt9.csproj": {
-              "projectPath": "C:\\Users\\USUARIO\\source\\repos\\Asphalt9\\Asphalt9\\Asphalt9\\Asphalt9.csproj"
+            "C:\\Users\\lican\\Source\\Repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9\\Asphalt9.csproj": {
+              "projectPath": "C:\\Users\\lican\\Source\\Repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9\\Asphalt9.csproj"
             }
           }
         }
