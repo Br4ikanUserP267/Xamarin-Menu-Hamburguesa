@@ -3415,11 +3415,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lican\\Source\\Repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.Android\\Asphalt9.Android.csproj",
+      "projectUniqueName": "C:\\Users\\lican\\source\\repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.Android\\Asphalt9.Android.csproj",
       "projectName": "Asphalt9.Android",
-      "projectPath": "C:\\Users\\lican\\Source\\Repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.Android\\Asphalt9.Android.csproj",
+      "projectPath": "C:\\Users\\lican\\source\\repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.Android\\Asphalt9.Android.csproj",
       "packagesPath": "C:\\Users\\lican\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lican\\Source\\Repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.Android\\obj\\",
+      "outputPath": "C:\\Users\\lican\\source\\repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3442,8 +3442,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\lican\\Source\\Repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9\\Asphalt9.csproj": {
-              "projectPath": "C:\\Users\\lican\\Source\\Repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9\\Asphalt9.csproj"
+            "C:\\Users\\lican\\source\\repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9\\Asphalt9.csproj": {
+              "projectPath": "C:\\Users\\lican\\source\\repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9\\Asphalt9.csproj"
             }
           }
         }

@@ -4,7 +4,10 @@ using System.Text;
 
 namespace Asphalt9.modelos
 {
-    internal class Asphalt
+     class Asphalt
     {
+        public string Nombre { get; set; }
+        public string imagen { get; set; }
+        public string Descripcion { get; set; }
     }
 }

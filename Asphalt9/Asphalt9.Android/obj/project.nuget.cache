@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aNehhY1+U4TdsuoCSBJp2pwt/MiVRSTOqVTCDGseMgLobmC2EN2RPBPuVHWHPST/28pg3kM0Upr8RUiSN7tpEw==",
+  "dgSpecHash": "zynKCH7wOJvSM8Lx6JKossgWelh85PKGLhxFt3jlWS8LNNaYmJoNGG+/Y+0FPixgLeBvd1kKdzvCgdAs3h45Ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lican\\Source\\Repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.Android\\Asphalt9.Android.csproj",
+  "projectFilePath": "C:\\Users\\lican\\source\\repos\\Br4ikanUserP267\\Xamarin-Menu-Hamburguesa\\Asphalt9\\Asphalt9.Android\\Asphalt9.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lican\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\lican\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
