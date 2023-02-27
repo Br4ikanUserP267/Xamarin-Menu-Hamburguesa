@@ -24,7 +24,7 @@ namespace Asphalt9
         private void Button_Clicked(object sender, EventArgs e)
         {
             App.FYP.IsPresented = false;
-            App.FYP.Detail.Navigation.PushAsync(new Pagina1());
+            App.FYP.Detail.Navigation.PushAsync(new ListaAsphalt());
 
         }
 

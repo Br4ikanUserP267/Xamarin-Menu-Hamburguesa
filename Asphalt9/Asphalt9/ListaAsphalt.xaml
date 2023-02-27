@@ -1,28 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Asphalt9.ListaAsphalt">
+             x:Class="Asphalt9.ListaAsphalt"
+             BackgroundImageSource="https://w0.peakpx.com/wallpaper/279/17/HD-wallpaper-asphalt-9-cars-logo-mercedes-new-solo-time-turkey.jpg">
     <ContentPage.Content>
-        <StackLayout>
-            <CollectionView ItemsSource="{Binding ListaAsphalt}"
+        <RefreshView IsRefreshing="{Binding isBussy}"
+                     RefreshColor="Blue" Command="{Binding RefreshCommand}">
+            <StackLayout>
+                <CollectionView ItemsSource="{Binding ListaAsphalts}"
                             SelectionMode="Single"
-                            SelectionChanged="CollectionView_SelectionChanged">
-                <CollectionView.ItemTemplate>
-                    <DataTemplate>
-                        <Grid>
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="*"/>
-                                <ColumnDefinition Width="*"/>
-                                <ColumnDefinition Width="*"/>
-                            </Grid.ColumnDefinitions>
-                            <Image Source="{Binding imagen}" Grid.Column="0"/>
-                            <Label Text="{Binding Nombre}" Grid.Column="1"/>
-                            <Label Text="Acciones" Grid.Column="2"/>
-                        </Grid>
-                    </DataTemplate>
-                </CollectionView.ItemTemplate>
-                
-            </CollectionView>
-        </StackLayout>
+                            SelectionChanged="CollectionView_SelectionChanged"
+                            EmptyView="No hay elementos">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <Image Source="{Binding imagen}" Grid.Column="0"/>
+                                <Label Text="{Binding Nombre}" Grid.Column="1"/>
+                                <Label Text="Acciones" Grid.Column="2" TextColor="DarkRed" FontSize="Header"/>
+                            </Grid>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+
+                </CollectionView>
+            </StackLayout>
+        </RefreshView>
     </ContentPage.Content>
+    
+    
 </ContentPage>

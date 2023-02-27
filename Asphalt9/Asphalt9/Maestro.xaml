@@ -6,7 +6,7 @@
              BackgroundImageSource="https://w0.peakpx.com/wallpaper/279/17/HD-wallpaper-asphalt-9-cars-logo-mercedes-new-solo-time-turkey.jpg">
     <ContentPage.Content>
         <StackLayout>
-            <Button Text="El juego"
+            <Button Text="Sus carros"
                     Clicked="Button_Clicked">
             </Button>
 

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ListView ItemsSource="{Binding ChatMessages}">
+    <ListView.ItemTemplate>
+        <DataTemplate>
+            <ViewCell>
+                <StackLayout>
+                    <Label Text="{Binding Sender}" />
+                    <Label Text="{Binding Content}" />
+                    <Label Text="{Binding Timestamp}" />
+                </StackLayout>
+            </ViewCell>
+        </DataTemplate>
+    </ListView.ItemTemplate>
+</ListView>
